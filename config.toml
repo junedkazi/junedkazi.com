@@ -3,6 +3,7 @@ baseURL = "https://junedkazi.com"
 title = "Juned Kazi - Engineering Leader"
 # Enable to turn relative URLs into absolute
 canonifyURLs = true
+publishDir = "docs"
 
 ## Profile Configurations
 [params.profile]
