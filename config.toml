@@ -1,0 +1,27 @@
+theme = "awesome-identity"
+baseURL = "https://junedkazi.com"
+title = "Juned Kazi - Engineering Leader"
+# Enable to turn relative URLs into absolute
+canonifyURLs = true
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/jak-photo.jpg"
+  firstname = "Juned"
+  lastname = "Kazi"
+  title = "Team Lead, BigCommerce Inc"
+  bio = """Juned Kazi brings over 10 years experience leading, contributing to, and growing engineering organizations.
+  I currently lead the storefront, pricing and transactional emails team at BigCommerce which powers thousands of ecommerce sites. 
+  """
+
+## Contacts Configurations
+[params.contacts]
+  github = "junedkazi"
+  twitter = "junedkazi"
+  linkedin = "junedkazi"
+  keybase = "junedkazi"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 Juned Kazi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
