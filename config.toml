@@ -11,8 +11,9 @@ publishDir = "docs"
   firstname = "Juned"
   lastname = "Kazi"
   title = "Team Lead, BigCommerce Inc"
-  bio = """Juned Kazi brings over 10 years experience leading, contributing to, and growing engineering organizations.
-  I currently lead the storefront, pricing and transactional emails team at BigCommerce which powers thousands of ecommerce sites. 
+  bio = """Juned Kazi brings over 10 years of experience leading, contributing to, and growing engineering organizations.
+  He is currently working as a Team Lead at [BigCommerce](https://www.bigcommerce.com/) managing and mentoring resources on the storefront, pricing and 
+  the transactional email teams. 
   """
 
 ## Contacts Configurations
